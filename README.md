@@ -41,4 +41,24 @@
 ![image](https://github.com/LaiTungcute/DemoCRUD/assets/90131766/90942425-f079-4565-80e1-3519fbb02ab4)
 ![image](https://github.com/LaiTungcute/DemoCRUD/assets/90131766/03247405-fd34-481a-a84c-25637a5dd79b)
 
+**Test dữ liệu**
+- Thêm user
+![image](https://github.com/LaiTungcute/DemoCRUD/assets/90131766/43c51d48-3965-4146-807d-96e47394516c)
+
+- Lấy tất cả user
+![image](https://github.com/LaiTungcute/DemoCRUD/assets/90131766/28aeb237-1a5e-4c60-98f2-1af8d8c62aaa)
+
+- Lấy user theo ID
+![image](https://github.com/LaiTungcute/DemoCRUD/assets/90131766/88ad1e95-ed01-40c2-bd82-be4d27c1128a)
+
+- Sửa user theo ID
+![image](https://github.com/LaiTungcute/DemoCRUD/assets/90131766/dc04c57a-d4ae-4014-b3d8-b73710f76c19)
+
+- Xóa user theo ID
+![image](https://github.com/LaiTungcute/DemoCRUD/assets/90131766/7c7732ce-86c9-47e2-a269-d941549faf78)
+
+- Bảng user sau khi xóa
+![image](https://github.com/LaiTungcute/DemoCRUD/assets/90131766/c7a38b4b-6c0c-4d2d-a24f-060b506f9590)
+
+
 
