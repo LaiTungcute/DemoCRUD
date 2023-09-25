@@ -9,7 +9,7 @@
 **Công nghệ sử dụng: Java Spring, MySQL**
 **Các bước sử dụng**
 - Tạo project bằng kênh start.spring.io và thêm các dependencies vào project
-![image](https://github.com/LaiTungcute/DemoCRUD/assets/90131766/230420c9-e1a3-4b1f-b32c-9a0abeb58f55)
+thub.com/LaiTungcute/DemoCRUD/assets/90131766/230420c9-e1a3-4b1f-b32c-9a0abeb58f55)
 
 - Hàm main
 ![image](https://github.com/LaiTungcute/DemoCRUD/assets/90131766/7e3072c6-b412-4d7f-a280-e9b8ec53359a)
